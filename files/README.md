@@ -1,4 +1,4 @@
-# Nishanks JupyterLite 
+# JupyterLite on a Browser
 
 JupyterLite deployed as a static site to GitHub Pages.
 
